@@ -71,7 +71,7 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmannava&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=tarunmannava&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Featured Projects
