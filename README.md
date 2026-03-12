@@ -2,65 +2,76 @@
 
 ## About Me
 
-🚀 Software Engineer with 2+ years of experience in full-stack development, cloud-based applications, and AI/ML systems. Currently pursuing Master's in Computer Science at University of South Florida while building an intelligent medical AI system.
+🚀 Software Engineer with 2+ years of experience in full-stack development, distributed systems, and AI/ML infrastructure. Currently pursuing a Master's in Computer Science at the University of South Florida, where I'm also a Graduate Researcher building an AI-powered learning platform on self-hosted LLM infrastructure.
 
-- 🔭 I'm currently working on **an intelligent medical AI symptom checker that thinks like a doctor** 🩺
+- 🔭 I'm currently working on **a full-stack AI learning platform powered by a self-hosted 21B-parameter LLM**
 - 🌱 I'm currently learning **advanced algorithms, distributed systems, and AI/ML at USF**
 - 👯 I'm looking to collaborate on **open-source projects, microservices, and AI/ML applications**
-- 💬 Ask me about **full-stack development, cloud architecture, microservices, and data science**
+- 💬 Ask me about **full-stack development, cloud architecture, microservices, GPU computing, and data engineering**
 - 📫 How to reach me: **mannava.tarun34@gmail.com**
 - 📍 Location: **Tampa, Florida, United States**
-- ⚡ Fun fact: **I'm building an AI that can diagnose diseases from symptoms using 246K medical samples, and I once optimized API response times by 65%!**
+- ⚡ Fun fact: **I built a CUDA-accelerated DNA tokenizer that achieved 339× speedup over CPU at 50K sequences**
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
 
 ### Databases & Caching
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Tools & Methodologies
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+### GPU & Systems
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Testing
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## 💼 Professional Experience
 
-**Programmer Analyst** @ Cognizant Technology Solutions (Nov 2022 - Aug 2024)
-- 🏗️ Developed microservices-based application serving **30,000+ daily users** with **99.9% uptime**
-- 🔐 Implemented JWT authentication with role-based access control
-- ⚡ Optimized database queries with Redis caching, reducing API response time by **65%**
-- 🚀 Migrated monolithic application to microservices, reducing deployment time by **70%**
+**Graduate Researcher** @ University of South Florida (Aug 2025 - Present)
+- 🤖 Building a full-stack AI learning platform integrating a self-hosted **21B-parameter LLM** with React and Flask
+- ⚡ Designing a scalable ML inference pipeline supporting **60+ concurrent users** with **sub-2s response latency**
+- 🖥️ Optimizing LLM infrastructure via GPU memory allocation tuning and model quantization on Unix servers
 
-**Data Science Intern** @ Exposys Data Labs (Oct 2021 - Dec 2021)
-- 📊 Applied clustering algorithms to segment **50,000+ customers**, increasing conversion rates by **12%**
-- 📈 Built interactive dashboards using Python and Tableau for business stakeholders
+**Software Engineer** @ Cognizant Technology Solutions (Nov 2022 - Aug 2024)
+- 🏗️ Built Spring Boot microservices handling **10K+ daily requests** across distributed systems
+- 🔐 Implemented secure API access using Spring Security and JWT for role-based authentication
+- ⚡ Integrated Redis caching and Kafka/JMS to optimize latency and decouple services
+- 🚀 Configured Jenkins CI/CD pipelines and managed deployments across cloud environments
+- ✅ Achieved **70% test coverage** across backend services using JUnit and Cucumber
+
+**Software Engineering Intern** @ Exposys Data Labs (Oct 2020 - Dec 2020)
+- 📊 Developed Python ETL pipelines reducing manual processing effort by **60%**
+- 🔍 Implemented K-means clustering on **15,000+ records** with dashboard visualization
 
 ## 📊 GitHub Stats
 
@@ -76,25 +87,29 @@
 
 ## 🏆 Featured Projects
 
-### 🩺 AI Medical Symptom Checker (Current Project)
-**Technologies:** Python, Scikit-Learn, LLaMA, FastAPI, React, AWS Lambda, Transformers
-- Building intelligent medical AI system that **"thinks like a doctor"** using **246K samples, 773 diseases**
-- Implementing natural language symptom mapping, correlation-based follow-up questions, and disease prediction
-- Developing **multi-component architecture** with ML models, conversation engine, and real-time statistics
-- Target: **>80% accuracy** in disease prediction with **<3 second response time**
-- **[🔗 Repository](https://github.com/tarunmannava/symptom-checker)**
+### ⚡ CUDA-Accelerated DNA Trigram Tokenizer
+**Technologies:** C++, CUDA, GPU Computing
+- Implemented a GPU kernel to tokenize DNA sequences using trigram lookup tables, parallelizing across thread blocks with shared and constant memory optimization
+- Achieved up to **339× speedup** over CPU baseline, scaling from 2.06× on a single sequence to 339× on 50,000 sequences
+- Optimized memory access patterns with coalesced reads and per-block shared LUT loading across a 128-thread execution model
 
-### 🤖 Context-Aware Question Answering using Open-Source LLMs
-**Technologies:** LLama2, LangChain, FAISS, Python, Sentence Transformers
-- Built document-based Q&A system with retrieval-augmented generation over **1000+ technical documents**
-- Achieved **34% improvement** in answer accuracy through enhanced retrieval and prompt engineering
-- Integrated semantic embedding to reduce hallucination and improve context relevance
+### 📊 Tech Salary & Remote Job Aggregator Dashboard
+**Technologies:** React, Next.js, PostgreSQL, Redis, FastAPI, Docker
+- Built a full-stack dashboard aggregating real-time salary and remote job data, enabling filtering by role, location, tech stack, and compensation
+- Reduced average query latency from **800ms to under 80ms** via Redis caching across **50K+ records**
+- Deployed on AWS with a CI/CD pipeline and server-side rendering for fast initial load
+- **[🔗 Repository](https://github.com/tarunmannava)**
 
-### 🔍 Anomaly Detection in Network Traffic using Autoencoders
-**Technologies:** Python, TensorFlow, NSL-KDD Dataset
-- Designed unsupervised anomaly detection system for network security
-- Achieved **94% precision** in detecting intrusions while minimizing false alarms
-- Enabled real-time alerts for cybersecurity and risk mitigation
+### 🤖 Industry News Digest Agent
+**Technologies:** Python, FastAPI, Kafka, Redis, React, Docker
+- Built an autonomous agent that scrapes, summarizes via LLM API, and delivers a daily digest to Slack via webhook
+- Designed an async Kafka pipeline with Redis deduplication ensuring each article is processed exactly once
+- **[🔗 Repository](https://github.com/tarunmannava)**
+
+### 🖥️ Operating System Development (xv6)
+**Technologies:** C, Assembly, Unix/Linux
+- Implemented custom process schedulers and system calls, developing expertise in concurrent systems and low-level performance optimization
+- Enhanced file system with memory management optimizations relevant to ML infrastructure
 
 ## 📈 Activity Graph
 <div align="center">
@@ -103,12 +118,12 @@
 
 ## 🎓 Education
 
-**🎓 Master's in Computer Science** - University of South Florida (Aug 2024 - Present)  
-**🎓 Bachelor's in Computer Science** - V R Siddhartha Engineering College (Aug 2018 - May 2022)
+**🎓 Master of Science, Computer Science** — University of South Florida (Aug 2024 - Present)  
+**🎓 Bachelor of Technology, Computer Science** — V R Siddhartha Engineering College (Aug 2018 - May 2022)
 
 ## 🏅 Certifications
 
-![AWS](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** (Dec 2023)
+![AWS](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Certified Cloud Practitioner** (Nov 2023) — [View Certificate](https://drive.google.com/file/d/1mBTbeHzc1KIXxe5PCzv5N88Lvvdo-ZGz/view?usp=sharing)
 
 ## 🤝 Connect with Me
 
@@ -123,7 +138,7 @@
 </div>
 
 <div align="center">
-  💡 <i>"Writing clean, maintainable code and implementing innovative solutions to complex problems"</i>
+  💡 <i>"Building systems that are fast, reliable, and built to scale."</i>
 </div>
 
 <div align="center">
