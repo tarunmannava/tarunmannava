@@ -57,7 +57,7 @@
 
 ## 💼 Professional Experience
 
-**Graduate Researcher** @ University of South Florida (Aug 2025 - Present)
+**Graduate Researcher** @ University of South Florida (Jan 2025 - Present)
 - 🤖 Developed an **AI Health & Literacy Platform** (React/Vite, Flask) in collaboration with USF SHIELD Lab & Bellini College
 - ⚡ Built an **AI Interactive Sandbox** integrating Hugging Face LLMs (OSS-20B via Groq/OpenAI SDK) for real-time model comparisons
 - 🔐 Refactored database architecture using **Supabase RPCs** (Postgres functions) to secure access control and implemented client-side caching to reduce network overhead
