@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunmannava&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmannava&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunmannava&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmannava&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" height="150"/>
 </div>
 
 ## 🔥 Streak Stats
