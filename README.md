@@ -2,9 +2,9 @@
 
 ## About Me
 
-🚀 Software Engineer with 2+ years of experience in full-stack development, distributed systems, and AI/ML infrastructure. Currently pursuing a Master's in Computer Science at the University of South Florida, where I'm also a Graduate Researcher building an AI-powered learning platform on self-hosted LLM infrastructure.
+🚀 Software Engineer with 2+ years of experience in full-stack development, distributed systems, and AI/ML infrastructure. Currently pursuing a Master's in Computer Science at the University of South Florida, where I'm also a Graduate Researcher developing AI-powered educational systems and LLM integrations.
 
-- 🔭 I'm currently working on **a full-stack AI learning platform powered by a self-hosted 21B-parameter LLM**
+- 🔭 I'm currently working on **scaling full-stack AI learning platforms and optimizing LLM inference orchestration**
 - 🌱 I'm currently learning **advanced algorithms, distributed systems, and AI/ML at USF**
 - 👯 I'm looking to collaborate on **open-source projects, microservices, and AI/ML applications**
 - 💬 Ask me about **full-stack development, cloud architecture, microservices, GPU computing, and data engineering**
@@ -58,9 +58,10 @@
 ## 💼 Professional Experience
 
 **Graduate Researcher** @ University of South Florida (Aug 2025 - Present)
-- 🤖 Building a full-stack AI learning platform integrating a self-hosted **21B-parameter LLM** with React and Flask
-- ⚡ Designing a scalable ML inference pipeline supporting **60+ concurrent users** with **sub-2s response latency**
-- 🖥️ Optimizing LLM infrastructure via GPU memory allocation tuning and model quantization on Unix servers
+- 🤖 Developed an **AI Health & Literacy Platform** (React/Vite, Flask) in collaboration with USF SHIELD Lab & Bellini College
+- ⚡ Built an **AI Interactive Sandbox** integrating Hugging Face LLMs (OSS-20B via Groq/OpenAI SDK) for real-time model comparisons
+- 🔐 Refactored database architecture using **Supabase RPCs** (Postgres functions) to secure access control and implemented client-side caching to reduce network overhead
+- 🖥️ Designed course modules, progress tracking, and timezone-consistent transcript query logging for student progress analysis
 
 **Software Engineer** @ Cognizant Technology Solutions (Nov 2022 - Aug 2024)
 - 🏗️ Built Spring Boot microservices handling **10K+ daily requests** across distributed systems
@@ -86,6 +87,14 @@
 </div>
 
 ## 🏆 Featured Projects
+
+### 🤖 AI Health & Literacy Platform
+**Technologies:** React, TypeScript, Vite, Flask, Python, Supabase (PostgreSQL), Hugging Face, Groq API
+- Developed a full-stack educational web application for the USF Biomedical Engineering Summer Program, guiding students through AI safety, evaluation, and safety/ethics topics across 13 modules
+- Built an **AI Interactive Sandbox** featuring a dual-chat interface that integrates Hugging Face OSS LLMs via Groq/OpenAI-compatible APIs for real-time model comparison
+- Implemented secure student progress tracking and session logging with **Supabase**, refactoring database access to use server-side Postgres functions (RPCs) and caching to minimize network overhead
+- Standardized real-time timezone tracking (EST offset normalization) and optimized database transcript queries (ordered by sequence number tiebreakers) for reliable session tracking
+- **[🔗 Repository](https://github.com/tarunmannava/ai-health-literacy)**
 
 ### ⚡ CUDA-Accelerated DNA Trigram Tokenizer
 **Technologies:** C++, CUDA, GPU Computing
